@@ -23,16 +23,16 @@
 #     'color': 'blue',
 #     'year': 1957
 # ## ..... Sequence Type
-# ## Lists
+# ## Lists are mutable
 # my_list=[car, color, year, my_car]
 
 # }
 # print(my_list)
-# ## Tuples
+# ## Tuples immutable
 # my_tuple=(1,2,3,"blue")
 
 #  ## -------Set Types
-#  # sets
+#  # sets immutable
 #  # unique, unindext, unordered
 #  my_set={1,2,3,4,5}
 # # frozen sets
